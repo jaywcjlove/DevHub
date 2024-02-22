@@ -12,7 +12,14 @@
 <br />
 <br />
 
-[![](https://wangchujiang.com/sb/download/white-appstore.svg)](https://apps.apple.com/app/devhub/id6476452351)
+<p>
+<a target="_blank" href="https://apps.apple.com/app/devhub/id6476452351">
+  <img src="https://jaywcjlove.github.io/sb/download/white-appstore.svg" height="51">
+</a>
+<a target="_blank" href="https://www.producthunt.com/posts/devhub-6?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-devhub-6">
+  <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=436362&amp;theme=dark" height="51">
+</a>
+</p>
 
 Currently in active development, DevHub has set a bold objective: to release updates every week. Striving to maintain a compact footprint, the goal is to curate an expansive collection of 100+ small tools, providing developers with a diverse set of utilities.
 
