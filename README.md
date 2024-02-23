@@ -9,7 +9,7 @@ A feature-rich offline application, is meticulously crafted to support developer
 
 <p>
   <a target="_blank" href="https://apps.apple.com/developer/id1714265259" title="DevHub AppStore">
-    <img alt="DevHub AppStore" src="https://apps.apple.com/us/app/devhub/id6476452351?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" height="51">
+    <img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
   </a>
   <a target="_blank" href="https://www.producthunt.com/posts/devhub-6?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-devhub-6">
     <img alt="DevHub Product Hunt" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=436362&theme=light" height="51">
