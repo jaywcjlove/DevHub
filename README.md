@@ -8,8 +8,8 @@
 A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 
 <p>
-  <a target="_blank" href="https://apps.apple.com/app/devhub/id6476452351" title="DevHub AppStore">
-    <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/white-appstore.svg" height="51">
+  <a target="_blank" href="https://apps.apple.com/developer/id1714265259" title="DevHub AppStore">
+    <img alt="DevHub AppStore" src="https://apps.apple.com/us/app/devhub/id6476452351?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" height="51">
   </a>
   <a target="_blank" href="https://www.producthunt.com/posts/devhub-6?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-devhub-6">
     <img alt="DevHub Product Hunt" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=436362&theme=light" height="51">
@@ -24,31 +24,31 @@ This initiative reflects our commitment to delivering consistent enhancements, o
 
 The following tools have been completed:
 
-■ API Request  
-■ PX/REM Converter  
-■ Barcode Generator  
-■ Random Number Generator  
-■ Data Size Converter  
-■ Text to Unicode  
-■ ICO Converter  
-■ QRCode Reader/Generator  
-■ WiFi QRCode Generator  
-■ Event QRCode Generator  
-■ Business Cards QRCode Generator  
-■ RSA Key Generator  
-■ EXIF Viewer  
-■ Color Converters  
-■ ASCII To String  
-■ String To ASCII  
-■ Date Converters  
-■ Hash Generator  
-■ Image To Base64  
-■ HTML Encode/Decode  
-■ Text To Base64  
-■ Text Case  
-■ UUID Generator  
-■ URL Parser  
-■ URL Encode/Decode  
+- [x] API Request  
+- [x] PX/REM Converter  
+- [x] Barcode Generator  
+- [x] Random Number Generator  
+- [x] Data Size Converter  
+- [x] Text to Unicode  
+- [x] ICO Converter  
+- [x] QRCode Reader/Generator  
+- [x] WiFi QRCode Generator  
+- [x] Event QRCode Generator  
+- [x] Business Cards QRCode Generator  
+- [x] RSA Key Generator  
+- [x] EXIF Viewer  
+- [x] Color Converters  
+- [x] ASCII To String  
+- [x] String To ASCII  
+- [x] Date Converters  
+- [x] Hash Generator  
+- [x] Image To Base64  
+- [x] HTML Encode/Decode  
+- [x] Text To Base64  
+- [x] Text Case  
+- [x] UUID Generator  
+- [x] URL Parser  
+- [x] URL Encode/Decode  
 
 ![DevHub screenshots-2](https://github.com/jaywcjlove/DevHub/assets/1680273/012aa096-6f40-40bd-bede-16f475d9052b)
 
