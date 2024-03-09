@@ -8,7 +8,7 @@
 A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 
 <p>
-  <a target="_blank" href="https://apps.apple.com/developer/id1714265259" title="DevHub AppStore">
+  <a target="_blank" href="https://apps.apple.com/app/devhub/id6476452351" title="DevHub AppStore">
     <img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
   </a>
   <a target="_blank" href="https://www.producthunt.com/posts/devhub-6?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-devhub-6">
