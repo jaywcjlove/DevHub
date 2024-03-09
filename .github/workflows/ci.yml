@@ -28,8 +28,12 @@ jobs:
             wrapper: style=max-width:720px;
           menus:
             Home: index.html
-            Apps: https://wangchujiang.com/#/app
-            About: https://wangchujiang.com/#/about
+            Apps: 
+              url: https://wangchujiang.com/#/app
+              target: __blank
+            About: 
+              url: https://wangchujiang.com/#/about
+              target: __blank
           footer: |
             <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
