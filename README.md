@@ -18,13 +18,14 @@ A feature-rich offline application, is meticulously crafted to support developer
 
 Currently in active development, DevHub has set a bold objective: to release updates every week. Striving to maintain a compact footprint, the goal is to curate an expansive collection of 100+ small tools, providing developers with a diverse set of utilities.
 
-![DevHub screenshots-1](https://github.com/jaywcjlove/DevHub/assets/1680273/cee198e4-a0a6-45fd-a9a0-fa367cdc4c01)
+![DevHub screenshots-1](./assets/screenshots-1.png)
 
 This initiative reflects our commitment to delivering consistent enhancements, offering a plethora of tools to empower developers. DevHub is not just a coding companion; it's a dynamic platform evolving weekly to meet the evolving needs of developers. With advanced debugging, testing, and an ever-growing toolkit, DevHub stands as a testament to our dedication to optimizing coding workflows and ensuring a productive coding experience. Join us on this journey as we continue to refine and expand DevHub, making it an indispensable resource for developers worldwide.
 
 The following tools have been completed:
 
 - [x] API Request
+- [x] Life Countdown
 - [x] Text To Speech
 - [x] PX/REM Converter
 - [x] Barcode Generator
@@ -52,8 +53,8 @@ The following tools have been completed:
 - [x] URL Parser
 - [x] URL Encode/Decode
 
-![DevHub screenshots-2](https://github.com/jaywcjlove/DevHub/assets/1680273/848652c4-499a-476c-a71b-d8f33e2a4176)
-![DevHub screenshots-3](https://github.com/jaywcjlove/DevHub/assets/1680273/93349d47-c49e-4517-820a-c420343dc8bc)
-![DevHub screenshots-4](https://github.com/jaywcjlove/DevHub/assets/1680273/3f4a2bc0-5c73-4bf0-a78c-9bf05c960c07)
-![DevHub screenshots-5](https://github.com/jaywcjlove/DevHub/assets/1680273/5689cdb2-4fe8-4252-8a5c-95a3dc9eec2d)
-![DevHub screenshots-6](https://github.com/jaywcjlove/DevHub/assets/1680273/99254768-9176-499e-884e-e3470f14466d)
+![DevHub screenshots-2](./assets/screenshots-2.png)
+![DevHub screenshots-3](./assets/screenshots-3.png)
+![DevHub screenshots-4](./assets/screenshots-4.png)
+![DevHub screenshots-5](./assets/screenshots-5.png)
+![DevHub screenshots-6](./assets/screenshots-6.png)
