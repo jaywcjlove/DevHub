@@ -22,7 +22,7 @@ jobs:
           keywords: DevHub,Offline app,Developer,tools,Advanced debugging,Testing,utilities,Feature-rich,Coding,Toolkit
           favicon: assets/logo.png
           logo: ./assets/logo.png
-          openSource: https://github.com/jaywcjlove/TextSoundSaver
+          openSource: https://github.com/jaywcjlove/DevHub
           tocs: false
           element: 
             wrapper: style=max-width:720px;
