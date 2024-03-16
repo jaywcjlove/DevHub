@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<br />
-	<img src="https://github.com/jaywcjlove/DevHub/assets/1680273/79875917-cf90-42d1-bfd9-f2eec4664130" alt="DevHub LOGO" width="160" height="160">
+	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   <p>
     <a href="https://apps.apple.com/app/devhub/id6476452351">AppStore</a> • 
 		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
