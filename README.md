@@ -29,6 +29,8 @@ This initiative reflects our commitment to delivering consistent enhancements, o
 The following tools have been completed:
 
 - [x] API Request
+- [x] Date Converters
+- [x] Generate Password
 - [x] Life Countdown
 - [x] Text To Speech
 - [x] PX/REM Converter
@@ -43,7 +45,6 @@ The following tools have been completed:
 - [x] Color Converters
 - [x] ASCII To String
 - [x] String To ASCII
-- [x] Date Converters
 - [x] Hash Generator
 - [x] EXIF Viewer
 - [x] Image To Base64
@@ -53,6 +54,7 @@ The following tools have been completed:
 - [x] Text To Base64
 - [x] Text to Unicode
 - [x] Text Case
+- [x] Lorem Ipsum Generator
 - [x] UUID Generator
 - [x] URL Parser
 - [x] URL Encode/Decode
