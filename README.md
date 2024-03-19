@@ -29,9 +29,12 @@ This initiative reflects our commitment to delivering consistent enhancements, o
 The following tools have been completed:
 
 - [x] API Request
+- [x] Chmod Calculator
 - [x] Date Converters
+- [x] Device Information
 - [x] Generate Password
 - [x] Life Countdown
+- [x] Temperature Converter
 - [x] Text To Speech
 - [x] PX/REM Converter
 - [x] Barcode Generator
@@ -41,11 +44,13 @@ The following tools have been completed:
 - [x] WiFi QRCode Generator
 - [x] Event QRCode Generator
 - [x] Business Cards QRCode Generator
+- [x] Random Port Generator
 - [x] RSA Key Generator
 - [x] Color Converters
 - [x] ASCII To String
 - [x] String To ASCII
 - [x] Hash Generator
+- [x] Basic Auth Generator
 - [x] EXIF Viewer
 - [x] Image To Base64
 - [x] ICO Converter
