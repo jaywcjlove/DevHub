@@ -3,8 +3,9 @@
 	<br />
 	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   <p>
-    <a href="https://apps.apple.com/app/devhub/id6476452351">AppStore</a> • 
-		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
+		<a href="./README.zh.md">中文</a> • 
+    <a target="_blank" href="https://apps.apple.com/app/devhub/id6476452351">AppStore</a> • 
+		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
 	<h1>DevHub</h1>
   <!--rehype:style=border: 0;-->
@@ -45,6 +46,7 @@ The following tools have been completed:
 - [x] Random Port Generator
 - [x] RSA Key Generator
 - [x] Color Converters
+- [x] Chronometer
 - [x] ASCII To String
 - [x] String To ASCII
 - [x] Hash Generator
