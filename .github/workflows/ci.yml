@@ -39,7 +39,7 @@ jobs:
             - <meta property="twitter:site" content="@jaywcjlove">
             - <meta property="twitter:creator" content="jaywcjlove">
             - <meta property="twitter:card" content="summary_large_image">
-            - <meta property="twitter:title" content="<%= site %>">
+            - <meta property="twitter:title" content="<%= site %> - <%= description%>">
             - <meta property="twitter:description" content="<%= description%>">
             - <meta name="apple-itunes-app" content="app-id=6476452351">
           menus:
