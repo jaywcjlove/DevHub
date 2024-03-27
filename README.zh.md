@@ -21,13 +21,14 @@
 
 目前正在积极开发中，DevHub 树立了一个大胆的目标：每周发布更新。努力保持紧凑的足迹，目标是策划一个包含100多个小工具的广泛集合，为开发人员提供多样化的工具。
 
-![DevHub screenshots-1](./assets/screenshots-1.png)
+![DevHub screenshots-1-cn](./assets/screenshots-1-cn.png)
 
 这一举措体现了我们对持续提升的承诺，提供丰富的工具，以赋能开发人员。DevHub 不仅是一个编码伴侣；它是一个每周演进以满足开发人员不断变化需求的动态平台。凭借先进的调试、测试和不断增长的工具集，DevHub 站在我们优化编码工作流程、确保高效编码体验的承诺的见证。加入我们的行列，随着我们持续完善和扩展 DevHub，使其成为全球开发者不可或缺的资源。
 
 以下工具已完成：
 
 - [x] API 请求
+- [x] 正则表达式测试
 - [x] Chmod 计算器
 - [x] 日期转换器
 - [x] 设备信息
@@ -59,13 +60,15 @@
 - [x] 文本转 Base64
 - [x] 文本转Unicode
 - [x] 文本案例
+- [x] 摩尔斯电码
 - [x] 乱数假文生成器
 - [x] UUID 生成器
 - [x] URL解析器
 - [x] URL 编码/解码
 
-![DevHub screenshots-2](./assets/screenshots-2.png)
-![DevHub screenshots-3](./assets/screenshots-3.png)
-![DevHub screenshots-4](./assets/screenshots-4.png)
-![DevHub screenshots-5](./assets/screenshots-5.png)
-![DevHub screenshots-6](./assets/screenshots-6.png)
+![DevHub screenshots-2-cn](./assets/screenshots-2-cn.png)
+![DevHub screenshots-3-cn](./assets/screenshots-3-cn.png)
+![DevHub screenshots-4-cn](./assets/screenshots-4-cn.png)
+![DevHub screenshots-5-cn](./assets/screenshots-5-cn.png)
+![DevHub screenshots-6-cn](./assets/screenshots-6-cn.png)
+![DevHub screenshots-7-cn](./assets/screenshots-7-cn.png)

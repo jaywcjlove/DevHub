@@ -28,6 +28,7 @@ This initiative reflects our commitment to delivering consistent enhancements, o
 The following tools have been completed:
 
 - [x] API Request
+- [x] Regex Expression Test
 - [x] Chmod Calculator
 - [x] Date Converters
 - [x] Device Information
@@ -59,6 +60,7 @@ The following tools have been completed:
 - [x] Text To Base64
 - [x] Text to Unicode
 - [x] Text Case
+- [x] Morse Alphabet
 - [x] Lorem Ipsum Generator
 - [x] UUID Generator
 - [x] URL Parser
@@ -69,3 +71,4 @@ The following tools have been completed:
 ![DevHub screenshots-4](./assets/screenshots-4.png)
 ![DevHub screenshots-5](./assets/screenshots-5.png)
 ![DevHub screenshots-6](./assets/screenshots-6.png)
+![DevHub screenshots-7](./assets/screenshots-7.png)
