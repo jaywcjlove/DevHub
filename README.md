@@ -17,19 +17,18 @@
   </p>
 </div>
 
-A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+A feature-rich offline application, carefully crafted to support developers' daily tasks and ensure the highest security for their data.
 
-Currently in active development, DevHub has set a bold objective: to release updates every week. Striving to maintain a compact footprint, the goal is to curate an expansive collection of 100+ small tools, providing developers with a diverse set of utilities.
+I am actively developing it with a bold goal in mind: to release updates weekly. I strive to maintain a lean footprint, aiming to curate an extensive collection comprising over 100 utilities, providing developers with a diverse array of tools. This initiative reflects my commitment to continuous improvement, offering rich tools to empower developers. DevHub is more than just a coding companion;
 
 ![DevHub screenshots-1](./assets/screenshots-1.png)
-
-This initiative reflects our commitment to delivering consistent enhancements, offering a plethora of tools to empower developers. DevHub is not just a coding companion; it's a dynamic platform evolving weekly to meet the evolving needs of developers. With advanced debugging, testing, and an ever-growing toolkit, DevHub stands as a testament to our dedication to optimizing coding workflows and ensuring a productive coding experience. Join us on this journey as we continue to refine and expand DevHub, making it an indispensable resource for developers worldwide.
 
 The following tools have been completed:
 
 - [x] API Request
 - [x] Regex Expression Test
 - [x] Chmod Calculator
+- [x] Crontab Generator
 - [x] Date Converters
 - [x] Device Information
 - [x] Generate Password
