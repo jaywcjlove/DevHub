@@ -1,6 +1,7 @@
 <p align="right">
   <a href="./privacy-policy.md">English</a>
 </p>
+<!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
 隐私政策
 ===
