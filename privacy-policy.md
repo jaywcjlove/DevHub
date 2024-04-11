@@ -1,5 +1,11 @@
+<p align="right">
+  <a href="./privacy-policy.zh.md">中文</a>
+</p>
+
 Privacy Policy
 ===
+
+
 
 Kenny Wang built the DevHub app as a Free app. This SERVICE is provided by Kenny Wang at no cost and is intended for use as is.
 

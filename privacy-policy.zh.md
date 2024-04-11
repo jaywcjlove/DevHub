@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./privacy-policy.md">English</a>
+</p>
+
 隐私政策
 ===
 
