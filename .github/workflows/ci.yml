@@ -52,6 +52,8 @@ jobs:
               target: __blank
           sideEffectFiles:
             - README.zh.md
+            - privacy-policy.md
+            - privacy-policy.zh.md
           footer: |
             <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
