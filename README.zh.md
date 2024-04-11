@@ -4,7 +4,7 @@
 	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   <p>
 		<a href="./README.md">English</a> • 
-    <a target="_blank" href="https://apps.apple.com/app/devhub/id6476452351">AppStore</a> • 
+		<a href="./privacy-policy.zh.md">隐私政策</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
 	<h1>DevHub</h1>
