@@ -99,5 +99,5 @@ open "devhub://qrCodeEventGenerator"
 Or copy this to your browser address bar and hit Enter: `devhub://qrCodeEventGenerator`
 
 <!--idoc:config:
-site: DevHub
+title: Developer Integration Tools - 
 -->
