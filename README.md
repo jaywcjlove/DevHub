@@ -83,7 +83,7 @@ Integrations with DevHub are done via URL Scheme. You can use this to integrate 
 
 **URL Scheme**
 
-**DevHub** supports various commands and parameters that allows you to activate the tool ****via a URL. For example, you can also use it as a link (e.g. in an HTML page) like this:
+DevHub supports various commands and parameters that allows you to activate the tool via a URL. For example, you can also use it as a link (e.g. in an HTML page) like this:
 
 ```html
 <a href="devhub://qrCodeEventGenerator">Click Here</a>
