@@ -4,6 +4,7 @@
 	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   <p>
 		<a href="./README.zh.md">中文</a> • 
+		<a href="#frequently-asked-questions">FAQ</a> • 
 		<a href="./privacy-policy.md">Privacy Policy</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
@@ -71,3 +72,28 @@ The following tools have been completed:
 ![DevHub screenshots-5](./assets/screenshots-5.png)
 ![DevHub screenshots-6](./assets/screenshots-6.png)
 ![DevHub screenshots-7](./assets/screenshots-7.png)
+
+## Frequently Asked Questions
+
+### DevHub Integrations
+
+Integrations with DevHub are done via URL Scheme. You can use this to integrate with most apps and workflows. For example, integration with Raycast:
+
+![DevHub + Raycast](./assets/raycast.png)
+
+**URL Scheme**
+
+**DevHub** supports various commands and parameters that allows you to activate the tool ****via a URL. For example, you can also use it as a link (e.g. in an HTML page) like this:
+
+```html
+<a href="devhub://qrCodeEventGenerator">Click Here</a>
+```
+
+Or from **Terminal.app / CLI:**
+
+```bash
+# Enter in Terminal.app or bash:
+open "devhub://qrCodeEventGenerator"
+```
+
+Or copy this to your browser address bar and hit Enter: `devhub://qrCodeEventGenerator`

@@ -4,6 +4,7 @@
 	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
   <p>
 		<a href="./README.md">English</a> • 
+		<a href="#frequently-asked-questions">FAQ</a> • 
 		<a href="./privacy-policy.zh.md">隐私政策</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
@@ -71,3 +72,29 @@
 ![DevHub screenshots-5-cn](./assets/screenshots-5-cn.png)
 ![DevHub screenshots-6-cn](./assets/screenshots-6-cn.png)
 ![DevHub screenshots-7-cn](./assets/screenshots-7-cn.png)
+
+## 常见问题解答
+
+### DevHub 集成
+
+与 DevHub 的集成是通过 URL Scheme 完成的。您可以使用此功能与大多数应用程序和工作流集成。例如与 Raycast 集成：
+
+![DevHub + Raycast](./assets/raycast.png)
+
+**URL Scheme**
+
+**DevHub** 支持各种命令和参数，允许您通过 URL 激活该工具。例如，您也可以像这样在链接中使用它（例如在 HTML 页面中）：
+
+```html
+<a href="devhub://qrCodeEventGenerator">点击这里</a>
+```
+
+或者从 **Terminal.app / CLI** 中：
+
+```bash
+# 在 Terminal.app 或 bash 中输入：
+open "devhub://qrCodeEventGenerator"
+```
+
+或者将此复制到您的浏览器地址栏中，然后按 Enter 键： `devhub://qrCodeEventGenerator`
+
