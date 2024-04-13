@@ -52,10 +52,13 @@ jobs:
               target: __blank
           sideEffectFiles:
             - README.zh.md
+            - terms-of-service.md
+            - terms-of-service.zh.md
             - privacy-policy.md
             - privacy-policy.zh.md
           footer: |
-            <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
+            <a href="./terms-of-service.html" target="_blank">Terms of Service</a> • 
+            <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
             <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> • 
             <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br /><br />

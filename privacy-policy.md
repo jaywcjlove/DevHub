@@ -6,8 +6,6 @@
 Privacy Policy
 ===
 
-
-
 Kenny Wang built the DevHub app as a Free app. This SERVICE is provided by Kenny Wang at no cost and is intended for use as is.
 
 Welcome to our app! We respect and protect your privacy. This privacy policy is designed to explain how we collect, use, and safeguard your personal information. Please read the following carefully to understand our privacy practices.

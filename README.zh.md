@@ -6,6 +6,7 @@
 		<a href="./README.md">English</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
 		<a href="./privacy-policy.zh.md">隐私政策</a> • 
+		<a href="./terms-of-service.zh.md">服务条款</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
 	<h1>DevHub</h1>
