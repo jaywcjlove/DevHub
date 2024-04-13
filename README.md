@@ -7,8 +7,6 @@
   <p>
 		<a href="./README.zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
-		<a href="./privacy-policy.md">Privacy Policy</a> • 
-		<a href="./terms-of-service.md">Terms of Service</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
   <p>
