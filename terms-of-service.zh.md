@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./privacy-policy.md">English</a>
+  <a href="./terms-of-service.md">English</a>
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
