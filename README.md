@@ -3,6 +3,7 @@
 	<br />
 	<img src="./assets/logo.png" alt="DevHub LOGO" width="160" height="160">
 	<h1>DevHub</h1>
+  <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
@@ -10,7 +11,6 @@
 		<a href="./terms-of-service.md">Terms of Service</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
-  <!--rehype:style=border: 0;-->
   <p>
     <a target="_blank" href="https://apps.apple.com/app/devhub/id6476452351" title="DevHub AppStore"><img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
     </a>
