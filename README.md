@@ -26,6 +26,7 @@ I am actively developing it with a bold goal in mind: to release updates weekly.
 The following tools have been completed:
 
 - [x] API Request
+- [x] Background Filler
 - [x] Regex Expression Test
 - [x] Chmod Calculator
 - [x] Crontab Generator
@@ -46,6 +47,7 @@ The following tools have been completed:
 - [x] Random Port Generator
 - [x] RSA Key Generator
 - [x] Color Converters
+- [x] Random Colors
 - [x] Chronometer
 - [x] ASCII To String
 - [x] String To ASCII
@@ -55,11 +57,15 @@ The following tools have been completed:
 - [x] Image To Base64
 - [x] ICO Converter
 - [x] HTML Encode/Decode
+- [x] HTML Preview
 - [x] String Explorer
 - [x] Text To Base64
 - [x] Text to Unicode
 - [x] Text Case
+- [x] Text Diff
+- [x] Word Counter
 - [x] Morse Alphabet
+- [x] JSON Formatter
 - [x] Lorem Ipsum Generator
 - [x] UUID Generator
 - [x] URL Parser
