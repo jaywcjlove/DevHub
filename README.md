@@ -26,6 +26,7 @@ I am actively developing it with a bold goal in mind: to release updates weekly.
 The following tools have been completed:
 
 - [x] API Request
+- [x] Text Card
 - [x] Background Filler
 - [x] Regex Expression Test
 - [x] Chmod Calculator
