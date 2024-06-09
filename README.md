@@ -27,6 +27,7 @@ The following tools have been completed:
 
 - [x] API Request
 - [x] Text Card
+- [x] Highlight Cursor
 - [x] Background Filler
 - [x] Regex Expression Test
 - [x] Chmod Calculator
