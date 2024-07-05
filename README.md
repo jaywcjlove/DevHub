@@ -17,6 +17,12 @@
   </p>
 </div>
 
+<div align="center">
+
+minimum OS requirement: `macOS 14.0`
+
+</div>
+
 A feature-rich offline application, carefully crafted to support developers' daily tasks and ensure the highest security for their data.
 
 I am actively developing it with a bold goal in mind: to release updates weekly. I strive to maintain a lean footprint, aiming to curate an extensive collection comprising over 100 utilities, providing developers with a diverse array of tools. This initiative reflects my commitment to continuous improvement, offering rich tools to empower developers. DevHub is more than just a coding companion;
@@ -25,10 +31,11 @@ I am actively developing it with a bold goal in mind: to release updates weekly.
 
 The following tools have been completed:
 
-- [x] API Request
 - [x] Text Card
+- [x] Image Color Extraction
 - [x] Highlight Cursor
 - [x] Background Filler
+- [x] API Request
 - [x] Regex Expression Test
 - [x] Chmod Calculator
 - [x] Crontab Generator
