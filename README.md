@@ -31,6 +31,7 @@ I am actively developing it with a bold goal in mind: to release updates weekly.
 
 The following tools have been completed:
 
+- [x] Blur Privacy
 - [x] Text Card
 - [x] App Icons
 - [x] Image Color Extraction
