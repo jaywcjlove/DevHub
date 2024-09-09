@@ -31,6 +31,7 @@ I am actively developing it with a bold goal in mind: to release updates weekly.
 
 The following tools have been completed:
 
+- [x] Filename Extractor
 - [x] SSL Manager
 - [x] Image Watermark
 - [x] NPM Stat
