@@ -1,2 +1,2 @@
 # *.md linguist-language=Swift
-*.yml linguist-language=Swift
+*.json linguist-language=Swift
