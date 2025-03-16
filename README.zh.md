@@ -13,8 +13,6 @@
   <p>
     <a target="_blank" href="https://apps.apple.com/app/devhub/id6476452351" title="DevHub AppStore"><img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
-    <a target="_blank" href="https://www.producthunt.com/posts/devhub-6?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-devhub-6"><img alt="DevHub Product Hunt" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
-    </a>
   </p>
 </div>
 
