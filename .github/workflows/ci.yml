@@ -13,11 +13,32 @@ jobs:
         with:
           node-version: 20
           registry-url: 'https://registry.npmjs.org'
+          
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
+
+      - name: Create Released Tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          version: ${{ steps.create_tag.outputs.version }}
+          release: true
+          body: |
+            <a target="_blank" href="https://apps.apple.com/app/DevHub/6476452351" title="DevHub for macOS">
+              <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+            </a>
+
+      - name: Get latest tag
+        id: get_latest_tag
+        run: echo "LATEST_TAG=$(git describe --tags $(git rev-list --tags --max-count=1))" >> $GITHUB_ENV
+
 
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "DevHub"
+          site: "DevHub {{version:${{ steps.create_tag.outputs.version }}}}"
           description: A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
           keywords: DevHub,Offline app,Developer,tools,Advanced debugging,Testing,utilities,Feature-rich,Coding,Toolkit
           favicon: assets/logo.png
