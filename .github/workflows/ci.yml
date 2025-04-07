@@ -74,6 +74,9 @@ jobs:
           sideEffectFiles:
             - README.zh.md
             - README.ja.md
+            - feedback.md
+            - feedback.zh.md
+            - feedback.ja.md
             - terms-of-service.md
             - terms-of-service.zh.md
             - privacy-policy.md
