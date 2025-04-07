@@ -1,0 +1,61 @@
+name: 🙋‍♂️ [DevHub] - Support & Feedback
+description: Get help with DevHub, report bugs, or request features.
+title: '🙋‍♂️ Support & Feedback: DevHub'
+labels: ['support', 'feedback', 'question']
+assignees:
+  - jaywcjlove
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <img align="right" height="86" alt="DevHub" src="https://github.com/user-attachments/assets/322d7ddf-d29d-4f73-a928-9dc467d4022e"> Please provide as much detail as possible about your support request or feedback.
+
+        DevHub is a carefully crafted offline application designed to support developers’ daily tasks while ensuring the highest level of data security.
+
+        ### Contact Information
+
+        If you encounter any issues or need support while using our app, please feel free to contact us through the following methods:
+
+        - **Email Support**: [kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)
+        - **Social Media**: [Twitter](https://twitter.com/jaywcjlove)
+
+        We will respond to your message as soon as possible. Thank you for your support of our app!
+
+  - type: textarea
+    attributes:
+      label: 🙋‍♂️ How can we help you?
+      description: Describe the issue you're facing or the feature you'd like to request.
+      placeholder: For example, I'm experiencing an issue with...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os_version
+    attributes:
+      label: "💻 Desktop"
+      description: Your operating system and version.
+      options:
+        - macOS 15.0 (Sequoia)
+        - macOS 14.0 (Sonoma)
+      default: 0
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **How can I send you a crash report for one of your apps?**
+
+        - macOS Open Finder
+        - Select Go to **Folder…** from the Go menu <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>G</kbd>
+        - Enter: **~/Library/Logs/DiagnosticReports**
+        - In the resulting list, select all files that starts with the app name, ZIP them, and send me
+        - Attach the file to this issue
+
+  - type: textarea
+    attributes:
+      label: ℹ️ Additional context
+      description: Add any additional information that could be helpful.
+      placeholder: ex. Screenshots, steps to reproduce, etc.
+    validations:
+      required: false
