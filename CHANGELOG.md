@@ -2,7 +2,7 @@ Changelog
 ===
 
 <a target="_blank" href="https://apps.apple.com/app/DevHub/6476452351" title="DevHub for macOS">
-<img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
 ## [v1.35.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.35.0)
