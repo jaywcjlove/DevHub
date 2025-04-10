@@ -5,6 +5,16 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.37.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.37.0)
+
+1. pref: optimize search.
+2. feat: Add range selection to world clock.
+
+---
+
+1. 优化搜索功能。
+2. 为世界时钟添加了范围选择功能。
+
 ## [v1.36.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.36.0)
 
 1. feat: Added `World Time` feature.
