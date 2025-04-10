@@ -5,6 +5,25 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.36.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.36.0)
+
+1. feat: Added `World Time` feature.
+2. feat: Add scalars option to TextToUnicode.
+3. chore: Fixed warning in Swift 6.
+4. typo: Changed "文件名提取助手" to "文件名提取".
+5. fix: Fixed sidebar menu icon alignment issue.
+6. fix: fix HTMLEntityDecode issue.
+
+---
+
+1. feat: 添加了 `World Time` 功能。
+2. feat: 添加了 `scalars` 选项到 TextToUnicode。
+3. chore: 修复了 Swift 6 中的警告。
+4. typo: 将 "文件名提取助手" 修改为 "文件名提取"。
+5. fix: 修复了侧边栏菜单图标对齐问题。
+6. fix: 修复了 HTMLEntityDecode 问题。
+
+
 ## [v1.35.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.35.0)
 
 1. fix: resolve duplicate items in status bar favorite menu
