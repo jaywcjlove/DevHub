@@ -7,7 +7,7 @@ Changelog
 
 ## [v1.37.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.37.0)
 
-1. pref: optimize search.
+1. pref: optimize search. 
 2. feat: Add range selection to world clock.
 
 ---
