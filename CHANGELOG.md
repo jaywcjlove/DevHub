@@ -5,6 +5,18 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.38.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.38.0)
+
+1. feat: add “RMB Uppercase” functionality.
+2. enhance: optimize search in the sidebar menu.
+3. pref: enhance world clock search.
+
+---
+
+1. 功能：添加“人民币大写”功能。
+2. 增强：优化侧边栏菜单中的搜索功能。
+3. 偏好：增强世界时钟搜索功能。
+
 ## [v1.37.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.37.0)
 
 1. pref: optimize search. 
