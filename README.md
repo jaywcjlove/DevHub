@@ -30,6 +30,7 @@ I am actively developing it with a bold goal in mind: to release updates weekly.
 
 The following tools have been completed:
 
+- [x] RMB Uppercase
 - [x] World Time
 - [x] File Info
 - [x] Image Text Recognition
