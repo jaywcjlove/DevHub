@@ -8,6 +8,7 @@
 		<a href="./README.zh.md">中文</a> • 
 		<a href="./README.ja.md">日本語</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
+		<a href="./CHANGELOG.md">Changelog</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
   <p>

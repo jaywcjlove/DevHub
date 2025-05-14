@@ -74,6 +74,8 @@ jobs:
           sideEffectFiles:
             - README.zh.md
             - README.ja.md
+            - CHANGELOG.md
+            - CHANGELOG.zh.md
             - feedback.md
             - feedback.zh.md
             - feedback.ja.md

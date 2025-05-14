@@ -1,9 +1,9 @@
 <p align="right">
-  <a href="./CHANGELOG.zh.md">中文</a>
+  <a href="./CHANGELOG.md">English</a>
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
-Changelog
+更新日志
 ===
 
 <a target="_blank" href="https://apps.apple.com/app/DevHub/6476452351" title="DevHub for macOS">
@@ -12,38 +12,38 @@ Changelog
 
 ## [v1.38.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.38.1)
 
-1. feat: Enhance color picker for text card.
-2. feat: Enhance color picker for image watermark.
-3. feat: Update color picker for background filler.
-4. feat: Add support for Morse code symbols.
+1. 新增：增强文本卡片的颜色选择器功能
+2. 新增：增强图片水印的颜色选择器功能
+3. 新增：更新背景填充的颜色选择器
+4. 新增：添加对摩尔斯电码符号的支持
 
 ## [v1.38.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.38.0)
 
-1. feat: add “RMB Uppercase” functionality.
-2. enhance: optimize search in the sidebar menu.
-3. pref: enhance world clock search.
-
+1. 功能：添加“人民币大写”功能。
+2. 增强：优化侧边栏菜单中的搜索功能。
+3. 偏好：增强世界时钟搜索功能。
 
 ## [v1.37.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.37.0)
 
-1. pref: optimize search. 
-2. feat: Add range selection to world clock.
+1. 优化搜索功能。
+2. 为世界时钟添加了范围选择功能。
 
 ## [v1.36.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.36.0)
 
-1. feat: Added `World Time` feature.
-2. feat: Add scalars option to TextToUnicode.
-3. chore: Fixed warning in Swift 6.
-4. typo: Changed "文件名提取助手" to "文件名提取".
-5. fix: Fixed sidebar menu icon alignment issue.
-6. fix: fix HTMLEntityDecode issue.
+1. feat: 添加了 `World Time` 功能。
+2. feat: 添加了 `scalars` 选项到 TextToUnicode。
+3. chore: 修复了 Swift 6 中的警告。
+4. typo: 将 "文件名提取助手" 修改为 "文件名提取"。
+5. fix: 修复了侧边栏菜单图标对齐问题。
+6. fix: 修复了 HTMLEntityDecode 问题。
+
 
 ## [v1.35.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.35.0)
 
-1. fix: resolve duplicate items in status bar favorite menu
-2. chore: update sponsorship
-3. pref: optimize settings
-4. feat: add update check
+1. 修复： 修复了状态栏收藏菜单重复的问题
+2. 其他： 更新了赞助信息
+3. 优化： 优化了设置
+4. 新增： 添加了更新检查功能
 
 ## [v1.34.2](https://github.com/jaywcjlove/DevHub/releases/tag/v1.34.2)
 
