@@ -10,6 +10,11 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.39.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.39.0)
+
+1. feat: 添加 JWTParser 工具。
+2. ui: 调整侧边栏设置以提升用户体验。
+
 ## [v1.38.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.38.1)
 
 1. 新增：增强文本卡片的颜色选择器功能

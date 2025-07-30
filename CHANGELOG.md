@@ -10,6 +10,11 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.39.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.39.0)
+
+1. feat: add JWTParser tool.
+2. ui: tweak sidebar settings for better UX.
+
 ## [v1.38.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.38.1)
 
 1. feat: Enhance color picker for text card.
