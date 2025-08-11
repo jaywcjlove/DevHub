@@ -52,109 +52,109 @@
 
 ## [v1.34.2](https://github.com/jaywcjlove/DevHub/releases/tag/v1.34.2)
 
-1. fix: Fix missing icon issue in file info reader tool.
-2. feat: Add refresh button to SSLManager.
+1. 修复：修复文件信息读取工具中缺失图标的问题。  
+2. 新增：为 SSLManager 添加刷新按钮。  
 
 ## [v1.34.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.34.1)
 
-1. fix: Fixed File Info type error.
-2. feat: Expanded FileInfo to retrieve additional details.
+1. 修复: 修复了 File Info 类型错误。
+2. 新增: 扩展了 FileInfo，以检索更多详细信息。
 
 ## [v1.34.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.34.0)
 
-1. feat: add `FileInfo`
-2. perf: optimize memory usage.
+1. 新增功能: 添加 `FileInfo`
+2. 性能优化: 改善内存使用效率。
 
 ## [v1.33.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.33.0)
 
-1. feat: Added an image text recognition tool to allow users to extract text from images.
-2. perf: optimize memory usage.
+1. 新功能: 添加了图片文本识别工具，用户可以从图片中提取文字。
+2. 性能优化: 优化内存占用，提升应用性能。
 
 ## [v1.32](https://github.com/jaywcjlove/DevHub/releases/tag/v1.32)
 
-- Fix: Reopen window when the app is activated from the Dock.
-- Refactor: Optimized `BackgroundFiller` implementation to improve code quality and performance.
+- 修复：修复了从 Dock 激活应用时重新打开窗口的问题
+- 重构：优化了 `BackgroundFiller` 的实现，提升代码质量和性能
 
 ## [v1.31](https://github.com/jaywcjlove/DevHub/releases/tag/v1.31)
 
-1. Add `Filename Extractor`
+1. 新增文件名提取助手
 
 ## [v1.30](https://github.com/jaywcjlove/DevHub/releases/tag/v1.30)
 
-1. feat: add `SSL Manager`
-2. fix: fix language switching issue
-3. fix: fix white border issue in BackgroundFiller.
+1. 新增 `SSL 管理器`
+2. 修复语言切换问题
+3. 修复 BackgroundFiller 中的白色边框问题
 
 ## 1.29
 
-1. feat: add internationalization setting.
-2. fix: fix email url error.
-3. fix(BackgroundFiller): fix loss of width and height when pasting images.
-4. feat: image watermark toolbar.
+1. feat: 添加国际化设置。
+2. fix: 修复电子邮件 URL 错误。
+3. fix(BackgroundFiller): 修复粘贴图片时丢失宽度和高度的问题。
+4. feat: 图像水印工具栏。
 
 ## 1.28
 
-1. feat: add `Image Watermark`
+1. 新增图片加水印功能
 
 ## [v1.27](https://github.com/jaywcjlove/DevHub/releases/tag/v1.27)
 
-1. feat: add npm stat.
+1. 新增 npm 包查询工具
 
 ## 1.26
 
-1. feat: add BlurPrivacy
+1. 新增模糊隐私工具
 
 ## 1.25
 
-1. feat: add App Icons.
+1. 新增应用图标
 
 ## 1.24
 
-1. feat: Add ImageColorExtraction
-2. fix: Fix BackgroundFiller watermark issue
+1. 新增图片颜色提取
+2. 修复背景填充水印问题
 
 ## 1.23
 
-1. feat: add HighlightCursor tool.
-2. feat: update TextCard
-3. fix: fix setting background color issue.
+1. 新增突显光标工具
+2. 更新文本卡片设置
+3. 修复背景填充工具背景颜色设置问题
 
 ## 1.22
 
-1. feat: Update TextCard Settings.
-2. fix: fix setting background color issue.
+1. 更新 文本卡片 设置
+2. 修复文本卡片设置背景颜色问题
 
 ## 1.21
 
-1. feat: add TextCard tool
-2. feat: BackgroundFiller add settings for background image
-3. feat: BackgroundFiller add image size modify.
-4. feat: QRCode add example.
-5. feat: BackgroundFiller add color picker
+1. 新增文本卡片工具
+2. 背景填充添加颜色选择器
+3. 背景填充添加背景图片设置
+4. 背景填充添加大小设置
+5. 二维码生成器添加示例
 
 ## 1.20
 
-1. style: update TemperatureConverter style.
-2. style: update ColorConverters style.
-3. style: modify toolbar style.
-4. fix: fix render image issue.
-5. feat: add background color.
-6. style: modify BackgroundFiller setting style.
-7. feat: add screenshot featrue
+1. 样式：更新温度转换器样式
+2. 样式：更新颜色转换器样式
+3. 样式：修改工具栏风格
+4. fix：修复渲染图像问题
+5. 功能：颜色填充工具添加背景颜色
+6. style：修改颜色填充设置样式
+7. 功能：添加截图功能
 
 ## 1.19
 
-1. feat: add `Background Filler`.
-3. feat: add theme setting.
-4. fix: window order frount issue.
-5. fix: fix reopen window issue.
-6. perf: optimize the all tool.
+1. 新增 `Background Filler`工具
+2. 新增主题设置
+3. 修复窗口前值问题
+4. 修复窗口重新打开问题
+5. 优化所有工具性能
 
 ## 1.18
 
-1. fix: fix menu url error
-2. feat: update status menu bar
-3. feat: add global keyboard shortcuts.
+1. 修复：修复菜单链接错误
+2. 新功能：更新状态菜单栏
+3. 添加全局键盘快捷键
 
 ## 1.17
 
