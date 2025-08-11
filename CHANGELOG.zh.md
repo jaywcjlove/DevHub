@@ -10,6 +10,12 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.40.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.40.0)
+
+1. feat(svg): 添加 SVG 转 CSS 工具。
+2. ui(HighlightCursor): 修改 HighlightCursor UI 布局调整。
+3. fix(JWTParser): 修复点击时表格重新排列的问题。
+
 ## [v1.39.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.39.0)
 
 1. feat: 添加 JWTParser 工具。

@@ -10,6 +10,12 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.40.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.40.0)
+
+1. feat(svg): add SVG to CSS tool.
+2. ui(HighlightCursor): Modify HighlightCursor UI layout adjustment.
+3. fix(JWTParser): Issue with table rearranging on click.
+
 ## [v1.39.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.39.0)
 
 1. feat: add JWTParser tool.
