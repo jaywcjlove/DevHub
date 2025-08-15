@@ -16,6 +16,7 @@
 2. feat: 在 JSON 格式化中添加代码搜索和替换支持
 3. feat: 添加 Base64/文件转换工具
 4. pref: 优化状态处理并修复独立窗口数据问题
+5. fix: 修复订阅周期显示
 
 ## [v1.41.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.41.0)
 
