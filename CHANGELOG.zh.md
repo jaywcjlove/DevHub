@@ -10,6 +10,13 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.42.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.42.0)
+
+1. feat: 优化布局以提升性能
+2. feat: 在 JSON 格式化中添加代码搜索和替换支持
+3. feat: 添加 Base64/文件转换工具
+4. pref: 优化状态处理并修复独立窗口数据问题
+
 ## [v1.41.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.41.0)
 
 1. feat: 添加编辑器代码高亮
