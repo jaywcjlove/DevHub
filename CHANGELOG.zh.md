@@ -10,6 +10,10 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.41.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.41.0)
+
+1. feat: 添加编辑器代码高亮
+
 ## [v1.40.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.40.0)
 
 1. feat(svg): 添加 SVG 转 CSS 工具。

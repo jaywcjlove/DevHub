@@ -10,6 +10,10 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.41.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.40.0)
+
+1. feat: add code highlighting to editor.
+
 ## [v1.40.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.40.0)
 
 1. feat(svg): add SVG to CSS tool.
