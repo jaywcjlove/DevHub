@@ -12,11 +12,10 @@
 
 ## [v1.42.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.42.1)
 
-1. pref: optimize sidebar rendering performance on home page.
-2. ui: update home page.
-3. ui: update about page.
-4. ui: optimize life countdown layout.
-5. ui: optimize background fill layout.
+1. pref: 优化首页侧边栏展示性能
+2. ui: 更新首页
+3. ui: 更新关于页面
+4. ui: 优化生命倒计时布局
 
 ## [v1.42.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.42.0)
 
