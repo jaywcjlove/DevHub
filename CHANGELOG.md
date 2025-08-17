@@ -10,6 +10,13 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.42.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.42.1)
+
+1. pref: 优化首页侧边栏展示性能
+2. ui: 更新首页
+3. ui: 更新关于页面
+4. ui: 优化生命倒计时布局
+
 ## [v1.42.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.42.0)
 
 1. feat: optimize layout to improve performance.

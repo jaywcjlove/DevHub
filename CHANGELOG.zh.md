@@ -10,6 +10,14 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.42.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.42.1)
+
+1. pref: optimize sidebar rendering performance on home page.
+2. ui: update home page.
+3. ui: update about page.
+4. ui: optimize life countdown layout.
+5. ui: optimize background fill layout.
+
 ## [v1.42.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.42.0)
 
 1. feat: 优化布局以提升性能
