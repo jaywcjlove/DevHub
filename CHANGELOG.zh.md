@@ -10,6 +10,10 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.43.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.43.0)
+
+1. feat: 添加 mimeTypes 查询工具
+
 ## [v1.42.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.42.1)
 
 1. pref: 优化首页侧边栏展示性能
