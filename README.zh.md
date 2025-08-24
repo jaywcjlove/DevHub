@@ -31,6 +31,10 @@
 
 已完成的工具如下：
 
+- [x] CodeMirror 文本编辑器
+- [x] Prettier 代码格式
+- [x] HTML 格式化与压缩工具
+- [x] MIME 类型
 - [x] Base64/文件转换器
 - [x] SVG 转 CSS
 - [x] JWT 解析

@@ -10,6 +10,16 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.44.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.44.0)
+
+1. feat: add CodeMirror text editor.
+2. feat: add Prettier code formatter.
+3. feat: add HTML formatter & minifier tool.
+4. feat: update file info tool to display more details.
+5. perf: optimize homepage performance.
+6. fix: fix file selection issue in file/Base64 converter.
+7. perf: optimize MimeTypes tool.
+
 ## [v1.43.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.43.0)
 
 1. feat: add MIME types lookup tool

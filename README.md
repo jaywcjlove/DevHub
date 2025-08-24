@@ -31,6 +31,10 @@ I am actively developing it with a bold goal in mind: to release updates weekly.
 
 The following tools have been completed:
 
+- [x] CodeMirror text editor
+- [x] Prettier code formatting
+- [x] HTML formatting and minification tool
+- [x] MIME types
 - [x] Base64/File Converter
 - [x] SVG To CSS
 - [x] JWT Parser
