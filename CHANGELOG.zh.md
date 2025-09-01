@@ -10,6 +10,10 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.45.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.45.0)
+
+1. feat: 添加文本转换为北约字母表工具
+
 ## [v1.44.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.44.0)
 
 1. feat: 添加 CodeMirror 文本编辑器。
