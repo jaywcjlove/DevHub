@@ -31,6 +31,7 @@ I am actively developing it with a bold goal in mind: to release updates weekly.
 
 The following tools have been completed:
 
+- [x] HTML to Markdown
 - [x] Text to NATO alphabet
 - [x] CodeMirror text editor
 - [x] Prettier code formatting

@@ -32,6 +32,7 @@
 
 以下のツールが完成しています：
 
+- [x] HTMLをMarkdownに変換
 - [x] NATOフォネティックアルファベットに変換
 - [x] CodeMirror テキストエディタ
 - [x] Prettier コードフォーマット

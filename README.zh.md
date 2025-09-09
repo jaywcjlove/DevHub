@@ -31,6 +31,7 @@
 
 已完成的工具如下：
 
+- [x] HTML转换为Markdown
 - [x] 文本转换为北约字母表
 - [x] CodeMirror 文本编辑器
 - [x] Prettier 代码格式
