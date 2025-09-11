@@ -10,6 +10,11 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.46.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.46.1)
+
+1. fix: 修复 CodeMirror 编辑器主题设置
+2. perf: 优化编辑器性能问题
+
 ## [v1.46.0](https://github.com/jaywcjlove/DevHub/releases/tag/v1.46.0)
 
 1. feat: 新增 HTML 转 Markdown 工具
