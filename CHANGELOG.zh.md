@@ -10,6 +10,11 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/DevHub/releases/tag/v2.1.0)
+
+1. perf(editor): 优化编辑器加载性能
+2. style: 优化侧边栏样式
+
 ## [v2.0.0](https://github.com/jaywcjlove/DevHub/releases/tag/v2.0.0)
 
 1. feat: 添加对 macOS 26 的支持
