@@ -2,10 +2,10 @@ https://wangchujiang.com/DevHub/index.zh.html
 https://wangchujiang.com/DevHub/index.ja.html
 https://wangchujiang.com/DevHub/CHANGELOG.html
 https://wangchujiang.com/DevHub/CHANGELOG.zh.html
-https://wangchujiang.com/DevHub/feedback.html
-https://wangchujiang.com/DevHub/feedback.zh.html
 https://wangchujiang.com/DevHub/feedback.ja.html
 https://wangchujiang.com/DevHub/terms-of-service.html
+https://wangchujiang.com/DevHub/feedback.zh.html
+https://wangchujiang.com/DevHub/feedback.html
 https://wangchujiang.com/DevHub/terms-of-service.zh.html
 https://wangchujiang.com/DevHub/privacy-policy.html
 https://wangchujiang.com/DevHub/privacy-policy.zh.html
