@@ -27,7 +27,7 @@
 
 我正在积极开发中，并树立了一个大胆的目标：每周发布更新。我努力保持紧凑的足迹，旨在策划一个包含100多个小工具的广泛集合，为开发人员提供多样化的工具。这一举措体现了我对持续提升的承诺，提供丰富的工具，以赋能开发人员。DevHub不仅仅是一个编码伴侣；
 
-![DevHub screenshots-1-cn](./assets/screenshots-1-cn.png)
+![DevHub screenshots-1](./assets/screenshots-1.png)
 
 已完成的工具如下：
 
@@ -99,17 +99,17 @@
 - [x] URL解析器
 - [x] URL 编码/解码
 
-![DevHub screenshots-2-cn](./assets/screenshots-2-cn.png)
+![DevHub screenshots-2](./assets/screenshots-2.png)
 
-![DevHub screenshots-3-cn](./assets/screenshots-3-cn.png)
+![DevHub screenshots-3](./assets/screenshots-3.png)
 
-![DevHub screenshots-4-cn](./assets/screenshots-4-cn.png)
+![DevHub screenshots-4](./assets/screenshots-4.png)
 
-![DevHub screenshots-5-cn](./assets/screenshots-5-cn.png)
+![DevHub screenshots-5](./assets/screenshots-5.png)
 
-![DevHub screenshots-6-cn](./assets/screenshots-6-cn.png)
+![DevHub screenshots-6](./assets/screenshots-6.png)
 
-![DevHub screenshots-7-cn](./assets/screenshots-7-cn.png)
+![DevHub screenshots-7](./assets/screenshots-7.png)
 
 ## 常见问题解答
 

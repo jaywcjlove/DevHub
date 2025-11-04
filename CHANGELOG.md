@@ -10,6 +10,11 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/DevHub/releases/tag/v2.0.0)
+
+1. feat: add support for macOS 26
+2. fix: fix some known issues
+
 ## [v1.46.1](https://github.com/jaywcjlove/DevHub/releases/tag/v1.46.1)
 
 1. fix: fix CodeMirror editor theme setting
