@@ -10,6 +10,12 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.1](https://github.com/jaywcjlove/DevHub/releases/tag/v2.1.1)
+
+1. fix: fix issue with ICO icon converter.
+2. fix: fix issue with file drag-and-drop.
+3. fix: Fix known issues in the APIRequest tool.
+
 ## [v2.1.0](https://github.com/jaywcjlove/DevHub/releases/tag/v2.1.0)
 
 1. perf(editor): optimize editor loading performance. 

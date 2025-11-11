@@ -10,6 +10,12 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.1](https://github.com/jaywcjlove/DevHub/releases/tag/v2.1.1)
+
+1. fix: 修复 ICO 图标转换器问题
+2. fix: 修复文件拖拽问题
+3. fix: 修复 APIRequest 工具中的已知问题
+
 ## [v2.1.0](https://github.com/jaywcjlove/DevHub/releases/tag/v2.1.0)
 
 1. perf(editor): 优化编辑器加载性能
