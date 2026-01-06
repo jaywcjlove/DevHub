@@ -10,6 +10,12 @@ Changelog
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/DevHub/releases/tag/v2.2.0)
+
+1. feat: Add Timestamp tool. 
+2. fix: Fix internationalization display error. 
+3. fix: Resolve issue with paid unlock verification error. 
+
 ## [v2.1.1](https://github.com/jaywcjlove/DevHub/releases/tag/v2.1.1)
 
 1. fix: fix issue with ICO icon converter.

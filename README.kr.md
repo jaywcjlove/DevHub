@@ -32,6 +32,7 @@
 
 다음과같은 도구들을 제공해요:
 
+- [x] 타임스탬프
 - [x] HTML to Markdown
 - [x] 텍스트를 NATO 알파벳으로 변환
 - [x] CodeMirror 텍스트 에디터

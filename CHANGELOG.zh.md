@@ -10,6 +10,12 @@
     <img alt="DevHub AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/DevHub/releases/tag/v2.2.0)
+
+1. feat: 添加时间戳工具
+2. fix: 修复国际化显示错误
+3. fix: 解决付费解锁验证错误
+
 ## [v2.1.1](https://github.com/jaywcjlove/DevHub/releases/tag/v2.1.1)
 
 1. fix: 修复 ICO 图标转换器问题
